@@ -1,4 +1,4 @@
-### Olá seja bem vindo(a) sou Eduardo Franz 👋
+### Olá, seja bem vindo(a) sou Eduardo Franz 👋
 <!--
 **EduardoFranz/EduardoFranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
  
  ##
- ### Estou aprendendo: 
+ ### Estou aprendendo 
  <div style="display: inline_block"><br>
    
   <img align="center" alt="Du-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
