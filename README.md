@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Buscando oportunidade profissional como desenvolvedor web.
+- 💻 Buscando oportunidade profissional como desenvolvedor web jr.
 - 🎓 Atualmente estou estudando na Generation Brasil (Curso desenvolvedor Web).
 - 📫 Aprendendo sobre Html, Css, Javascipt, Java.
  ##
