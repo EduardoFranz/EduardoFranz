@@ -13,7 +13,7 @@ Here are some ideas to get you started:
  <div align="center">
   <a href="https://github.com/EduardoFranz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFranz&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFranz&?username=anuraghazra&langs_count=8theme=vue"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFranz&?username=anuraghazra&langs_count=8theme=vue"/>
 </div>
  
  ##
