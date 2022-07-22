@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Buscando oportunidade profissional como desenvolvedor web full stack jr.
-- 🎓 Atualmente estou estudando na Generation Brasil (Curso desenvolvedor Web full stack).
+- 💻 Desenvolvedor Full Stack Junior Java | React 
+- 🎓 Atualmente estou estudando na Generation Brasil (Curso Desenvolvedor web full stack).
 - 📫 Estudando sobre Java, Spring Boot, JavaScript, Html, Css, MySql.
  ##
  
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
    <img align="center" alt="Du-CSS3" height="27" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img align="center" alt="Du-HTML5" height="27" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="center" alt="Du-MySql" height="27" width="80" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
-   <img align="center" alt="Du-MySql" height="27" width="80" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
+   <img align="center" alt="Du-Git" height="27" width="80" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
    
    
    </div>
