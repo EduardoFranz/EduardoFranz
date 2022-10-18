@@ -4,11 +4,32 @@
 
 Here are some ideas to get you started:
 -->
-
+- 💻 Estou em busca de uma oportunidade como desenvolvedor jr.
 - 💻 Desenvolvedor Full Stack Junior Java | React 
 - 🎓 Recentemente me formei pela Generation Brasil (Curso Desenvolvedor web full stack).
 - 📫 Estudando sobre Java, Spring Boot, JavaScript, Html, Css, MySql.
  ##
+ 
+ 🎯 **Meus repositórios mais importantes**
+
+- [Generation Brasil](https://github.com/EduardoFranz/Generation)
+
+💡 **Projetos Originais**
+
+- [Blog Pessoal](https://github.com/EduardoFranz/Blog-Pessoal-React)
+  
+- [E-commerce Toda Dona](https://github.com/EduardoFranz/Toda-Dona-Front)
+
+
+🎫 **Projetos de Eventos e Cursos**
+
+- [DsMetas](https://github.com/EduardoFranz/Dsmeta)
+ 
+- [Pic Pro](https://github.com/EduardoFranz/Pic-Pro)
+##
+
+<hr/>
+<br/>
  
  <div align="center">
   <a href="https://github.com/EduardoFranz">
