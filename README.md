@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 Desenvolvedor Full Stack Junior Java | React 
-- 🎓 Atualmente estou estudando na Generation Brasil (Curso Desenvolvedor web full stack).
+- 🎓 Recentemente me formei pela Generation Brasil (Curso Desenvolvedor web full stack).
 - 📫 Estudando sobre Java, Spring Boot, JavaScript, Html, Css, MySql.
  ##
  
